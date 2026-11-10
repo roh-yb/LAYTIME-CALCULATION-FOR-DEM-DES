@@ -1,0 +1,15 @@
+[theme]
+font = "sans-serif"
+baseRadius = "medium"
+
+[theme.light]
+primaryColor = "#1F3864"
+
+[theme.dark]
+primaryColor = "#6E9BE0"
+
+[server]
+maxUploadSize = 25
+
+[client]
+toolbarMode = "minimal"
